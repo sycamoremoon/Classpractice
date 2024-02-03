@@ -6,5 +6,13 @@ When you setup the data you want to show in *font.h* , all you need to do is cal
 ---
 - 模拟计算机文件夹存放着2023年电子设计大赛综合测评题目以及电路仿真文件,以及自己仿照实际综合测评板画的PCB文件，使用嘉立创EDA。
 
+---
+
+- tmc_QtTextEditor文件存放一个基于Qt6.6.1编写的一个文本编辑器。
+
+---
+
+- CEvent_CPost文件夹存放基于[NevermindZZT](https://github.com/NevermindZZT/cpost)修改移植的事件处理架构，用来解耦代码。
+
 ## To be continue..
 
